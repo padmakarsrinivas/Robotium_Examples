@@ -2,9 +2,10 @@ This is a sample test project for the notepad application provided in Robotium s
 This can be downloaded from 
 http://dl.bintray.com/robotium/generic/ExampleTestProject_AndroidStudio.zip
 
-To use this we have to first set up the above project in Android Stuio. 
-Also add the below mentioned robotium dependency to the app gradle file. 
+To use this we tests have to first set up the above project in Android Studio. 
 
+
+After this add the below mentioned robotium dependency to the app gradle file. 
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
