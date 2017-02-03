@@ -1,7 +1,8 @@
-This is a sample test project for the note pad application provided in http://dl.bintray.com/robotium/generic/ExampleTestProject_AndroidStudio.zip
+This is a sample test project for the notepad application provided in Robotium site.
+This can be downloaded from 
+http://dl.bintray.com/robotium/generic/ExampleTestProject_AndroidStudio.zip
+
 To use this we have to first set up the above project in Android Stuio. 
-
-
 Also add the below mentioned robotium dependency to the app gradle file. 
 
 
